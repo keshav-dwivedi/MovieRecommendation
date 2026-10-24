@@ -1,8 +1,3 @@
-"""
-app.py - Movie Recommendation System (Streamlit)
-A simple web application to recommend movies with posters, cast, ratings, and genres.
-"""
-
 import streamlit as st
 import pandas as pd
 from recommender import (
